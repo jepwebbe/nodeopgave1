@@ -1,0 +1,25 @@
+{
+  "name": "nodeopgave1",
+  "version": "1.0.0",
+  "description": "opgaveløsning 1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "testcommand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jepwebbe/nodeopgave1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jepwebbe/nodeopgave1/issues"
+  },
+  "homepage": "https://github.com/jepwebbe/nodeopgave1#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
